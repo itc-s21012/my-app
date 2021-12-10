@@ -1,3 +1,4 @@
+// 検索コンポーネント
 import React, { useState } from 'react'
 
 const Search = props => {
