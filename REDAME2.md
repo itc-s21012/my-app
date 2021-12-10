@@ -27,3 +27,5 @@ import fetch from 'node-fetch';をApp.jsの先頭に追加した結果、エラ�
 - 参考にしたサイト
 - [Node.jsでfetchを使えるようにする](https://morizyun.github.io/javascript/node-js-npm-library-node-fetch.html)
 - [ReferenceError: fetch is not defined](https://stackoverflow.com/questions/48433783/referenceerror-fetch-is-not-defined)
+
+
